@@ -1,6 +1,6 @@
-#Hackaton BEST - Competition to create an application with the theme "Smart City" in 24 hours
+# Hackaton BEST - Competition to create an application with the theme "Smart City" in 24 hours
 
-##CityWatch
+## CityWatch
 
 A RESTful smart city application made with Spring and Angular. The application is split into multiple modules: Ride Sharing, Traffic congestion and Community Requests.
 The communication between server and client is secured via SHA-512 HMAC Jwt token.
