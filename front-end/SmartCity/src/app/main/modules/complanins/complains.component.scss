@@ -1,0 +1,18 @@
+.logo-image-selected {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    bottom: 60px;
+    right: 0;
+    margin: 20px;
+    z-index: 1000;
+}
+
+.popup-wrapper {
+    display: flex;
+    flex-direction: column;
+
+    & mat-card-title {
+        font-weight: 600;
+    }
+}
