@@ -4,6 +4,7 @@
 
 A RESTful smart city application made with Spring and Angular. The application is split into multiple modules: Ride Sharing, Traffic congestion and Community Requests.
 The communication between server and client is secured via SHA-512 HMAC Jwt token.
+This app was developed fast so don't expect it to be developed with the best practices :)
 
 !Note back-end/server is a deprecated directory (to be deleted)
 
